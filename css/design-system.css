@@ -15,12 +15,12 @@ body {
 }
 
 :root {
-  --wf-gray: #434E59;
-  --wf-light-gray: #E6ECF2;
-  --wf-bright-yellow: #F2BC1B;
-  --wf-medium-yellow: #CF9730;
-  --wf-medium-brown: #CF9730;
-  --wf-deep-brown: #736048;
+  --wf-gray: #ff9899;
+  --wf-light-gray: #ffcba5;
+  --wf-bright-yellow: #fde5b4;
+  --wf-medium-yellow: #ffcbc4;
+  --wf-medium-brown: #ffcbc4;
+  --wf-deep-brown: #FFA7A6;
   --body-text-color: var(--wf-medium-brown);
 }
 
