@@ -198,7 +198,7 @@ p, li {
 
 
   .color-gray {
-    background-color: #434E59;
+    background-color: #ffcba5;
   }
 
     .color-light-gray {
@@ -522,7 +522,7 @@ button:hover {
 /* Extra styles for the cancel button */
 .cancelbtn {
   padding: 14px 20px;
-  background-color: #434E59;
+  background-color: #fde5b4;
 }
 
 /* Float cancel and signup buttons and add an equal width */
