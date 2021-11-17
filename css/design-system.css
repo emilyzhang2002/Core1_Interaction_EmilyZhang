@@ -87,7 +87,7 @@ section {
 }
 
 .card-image {
-    background-color: #E6ECF2;
+    background-color: #fde5b4;
     padding:1rem;
 }
 .card-image > img {
@@ -95,7 +95,7 @@ section {
 }
 
 .profile-card {
-    background-color: #434E59;
+    background-color: #ffcba5;
     padding:1rem;
 }
 .profile-card > img {
@@ -105,13 +105,13 @@ section {
 
 .item {
   grid-column:1;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #fde5b4;
   padding: 1rem 0;
 }
 
 .definition {
   grid-column:2;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #fde5b4;
   padding: 1rem 0;
 }
 
@@ -205,16 +205,16 @@ p, li {
     background-color: #E6ECF2;
   }
     .color-bright-yellow {
-    background-color: #F2BC1B;
+    background-color: #ffcbc4;
   }
     .color-medium-yellow {
     background-color: #CF9730;
   }
     .color-medium-brown {
-    background-color: #A66312;
+    background-color: #FFA7A6;
   }
     .color-deep-brown {
-    background-color: #736048;
+    background-color: #ff9899;
   }
 
 
@@ -265,7 +265,7 @@ p, li {
 /* -- buttons -- */
 
 .button {
-  background-color: #CF9730; 
+  background-color: #FFA7A6; 
   border: none;
   color: white;
   padding: 8px 32px;
@@ -280,36 +280,36 @@ p, li {
 }
 
 .button1 {
-  background-color: #CF9730; 
+  background-color: #FFA7A6; 
   color: white; 
 }
 
 .button1:hover {
-  background-color: #A66312;
+  background-color: #FFA7A6;
   color: white;
 }
 
 .button2 {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #736048;
+  color: #FFA7A6; 
+  border: 2px solid #ff9899;
 }
 
 .button2:hover {
   background-color: white; 
-  color: #A66312; 
-  border: 2px solid #F2B138;
+  color: #FFA7A6; 
+  border: 2px solid #ffcbc4;
 }
 
 .button3 {
-  background-color: #736048; 
+  background-color: #ff9899; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
 }
 
 .button3:hover {
-  background-color: #736048; 
+  background-color: #ff9899; 
   color: white; 
   opacity: 0.6;
   cursor: not-allowed;
@@ -322,9 +322,9 @@ input[type=text] {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
-  border: 1px solid #F2B138;
+  border: 1px solid #ffcbc4;
   border-radius: 2px;
-  color: #A66312; 
+  color: #ff9899; 
 
 }
 
@@ -369,7 +369,7 @@ input[type=text] {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #A66312;
+  background-color: #ff9899;
 }
 
 /* -- switch -- */
@@ -395,7 +395,7 @@ input[type=text] {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #CCC;
+  background-color: #fde5b4;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -413,11 +413,11 @@ input[type=text] {
 }
 
 input:checked + .slider {
-  background-color: #F2B138;
+  background-color: #ffcbc4;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #F2B138;
+  box-shadow: 0 0 1px #ffcbc4;
 }
 
 input:checked + .slider:before {
@@ -446,7 +446,7 @@ label {
 
 input {
     margin: .4rem 0;
-    border: 1px solid #F2B138;
+    border: 1px solid #ffcbc4;
 }
 
 .pointer{
@@ -457,9 +457,9 @@ input {
 
 
 .loader {
-  border: 16px solid #ccc;
+  border: 16px solid #fde5b4;
   border-radius: 50%;
-  border-top: 16px solid #F2B138;
+  border-top: 16px solid #ffcbc4;
   width: 100px;
   height: 100px;
   -webkit-animation: spin 2s linear infinite; /* Safari */
@@ -506,7 +506,7 @@ hr {
 
 /* Set a style for all buttons */
 button {
-  background-color: #CF9730;
+  background-color: #FFA7A6;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
