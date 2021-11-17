@@ -15,12 +15,12 @@ body {
 }
 
 :root {
-  --wf-gray: #ff9899;
-  --wf-light-gray: #ffcba5;
-  --wf-bright-yellow: #fde5b4;
-  --wf-medium-yellow: #ffcbc4;
-  --wf-medium-brown: #ffcbc4;
-  --wf-deep-brown: #FFA7A6;
+  --wf-pink: #ff9899;
+  --wf-light-orange: #ffcba5;
+  --wf-light-yellow: #fde5b4;
+  --wf-light-pink: #ffcbc4;
+  --wf-light-pink: #ffcbc4;
+  --wf-medium-pink: #FFA7A6;
   --body-text-color: var(--wf-medium-brown);
 }
 
@@ -202,13 +202,13 @@ p, li {
   }
 
     .color-light-gray {
-    background-color: #E6ECF2;
+    background-color: #ffcbc4;
   }
     .color-bright-yellow {
     background-color: #ffcbc4;
   }
     .color-medium-yellow {
-    background-color: #CF9730;
+    background-color: #fde5b4;
   }
     .color-medium-brown {
     background-color: #FFA7A6;
